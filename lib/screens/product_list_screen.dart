@@ -1,6 +1,6 @@
-import 'package:CartDemo/blocs/cart_bloc.dart';
-import 'package:CartDemo/blocs/product_bloc.dart';
-import 'package:CartDemo/models/cart.dart';
+import '../blocs/cart_bloc.dart';
+import '../blocs/product_bloc.dart';
+import '../models/cart.dart';
 import 'package:flutter/material.dart';
 
 class ProductListScreen extends StatelessWidget {

@@ -1,5 +1,6 @@
-import 'package:CartDemo/blocs/cart_bloc.dart';
 import 'package:flutter/material.dart';
+
+import '../blocs/cart_bloc.dart';
 
 class CartScreen extends StatelessWidget {
   @override

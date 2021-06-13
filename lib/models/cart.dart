@@ -1,4 +1,4 @@
-import 'package:CartDemo/models/product.dart';
+import 'product.dart';
 
 class Cart {
   Product product;

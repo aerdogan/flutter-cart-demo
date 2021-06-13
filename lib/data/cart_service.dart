@@ -1,4 +1,4 @@
-import 'package:CartDemo/models/cart.dart';
+import '../models/cart.dart';
 
 class CartService {
   static List<Cart> cartItems = new List<Cart>();

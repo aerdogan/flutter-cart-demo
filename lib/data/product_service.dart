@@ -1,4 +1,4 @@
-import 'package:CartDemo/models/product.dart';
+import '../models/product.dart';
 
 class ProductService {
   static List<Product> products = new List<Product>();

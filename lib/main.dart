@@ -1,6 +1,6 @@
-import 'package:CartDemo/screens/cart_screen.dart';
-import 'package:CartDemo/screens/product_list_screen.dart';
 import 'package:flutter/material.dart';
+import 'screens/cart_screen.dart';
+import 'screens/product_list_screen.dart';
 
 void main() {
   runApp(MyApp());

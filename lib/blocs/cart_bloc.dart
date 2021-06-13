@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:CartDemo/data/cart_service.dart';
-import 'package:CartDemo/models/cart.dart';
+import '../data/cart_service.dart';
+import '../models/cart.dart';
 
 class CartBloc {
   // final : çalışma anında set edilen const
